@@ -1,0 +1,5 @@
+test.py
+imges/
+thunder-tests/
+*.pyc
+models.py
